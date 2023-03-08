@@ -1,2 +1,1 @@
-#!/bin/bash
-description of repository
+task 0,where am i
