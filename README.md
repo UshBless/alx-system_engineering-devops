@@ -1,2 +1,2 @@
 #!/bin/bash
-current working directory and Alx tasky
+description of repository
